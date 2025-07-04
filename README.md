@@ -2,7 +2,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
 
 <!-- Your Info. -->
-<h1 align="center">Hi 👋, I'm Kira</h1>
+<h1 align="center">Hi 👋, I'm Krishna kawtikwar</h1>
 <h3 align="center">An Electronics & Telecommunication Engineering student and Front-End Developer from India</h3>
 
 <!-- Programmer GIF -->
