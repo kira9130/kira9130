@@ -117,16 +117,6 @@ hobbies: ["Coding", "Designing UI", "Tech Blogging"]
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kira9130&icon=0&color=0)](https://visitcount.itsvg.in)
-## 🎨 Featured Projects
-
-<div align="center">
-
-[![How to Level Up on Github Guide](https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=Guide-to-levelling-up-on-Github&theme=tokyonight&hide_border=true)](https://github.com/smirk-dev/Guide-to-levelling-up-on-Github)
-[![AI for Fraud Job Listings](https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=Spot-The-Scam-AI&theme=tokyonight&hide_border=true)](https://github.com/smirk-dev/Spot-The-Scam-AI)
-[![DSA](https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=100DaysOfCode-2025&theme=tokyonight&hide_border=true)](https://github.com/smirk-dev/100DaysOfCode-2025)
-
-</div>
-
 ---
 
 ## 📈 Contribution Snake
@@ -146,31 +136,34 @@ hobbies: ["Coding", "Designing UI", "Tech Blogging"]
 </div>
 
 ## 🎯 Current Focus
-
 <div align="center">
 
 ```mermaid
 mindmap
-  root((Suryansh))
-    AI/ML
-      Computer Vision
-      Deep Learning
-      NLP
+  root((Krishna Kawtikwar))
     Development
-      Full-Stack
-      Mobile Apps
-      Web3
-    Art
-      Hyper-Realism
-      Digital Art
-      3D Modeling
-```
+      Frontend Development
+        React.js
+        Redux
+        Tailwind CSS
+        JavaScript
+      Backend Development
+        Node.js
+        Express.js
+        MongoDB
+        MySQL
+    Design
+      UI/UX
+      Responsive Web Design
+    Tools & Platforms
+      Git & GitHub
+      VS Code
+      Postman
+    Interests
+      SaaS Projects
+      Cricket Anime Concepts
+      IoT & Data Analytics
 
-</div>
-
----
-
-<div align="center">
   
 ### 🚶‍♂️ Profile Visitors
 
