@@ -1,24 +1,10 @@
-<!-- Web Dev Banner -->
+<img width="1226" height="671" alt="image" src="https://github.com/user-attachments/assets/d5cf61ed-c74f-4f7f-bbbe-a8e940a285ba" /><!-- Web Dev Banner -->
 ![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
 
 <!-- Your Info. -->
 
 ## 🌟 About Me  
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">  
-
-```yaml
-name: Krishna Kawtikwar
-location: ["Pune", "India"]
-current_focus: "Frontend Development & SaaS Projects"
-website: "https://krishnakawtikwar.vercel.app"
-email: "krishna.kawtikwar@gmail.com"
-pronouns: ["he", "him"]
-fun_fact: "I can turn coffee into beautiful UI designs!"
-currently_learning: ["Advanced React Patterns", "TypeScript", "Next.js"]
-hobbies: ["Coding", "Cricket", "UI Design", "Anime"]
-<!-- Programmer GIF -->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **Smart Library System using RFID & Raspberry Pi Pico**
 - 🌱 I’m currently learning **Next.js, MongoDB, and creative UI/UX workflows**
