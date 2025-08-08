@@ -163,6 +163,7 @@ mindmap
       SaaS Projects
       Cricket Anime Concepts
       IoT & Data Analytics
+```
 
   
 ### 🚶‍♂️ Profile Visitors
