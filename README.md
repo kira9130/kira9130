@@ -104,38 +104,19 @@ hobbies: ["Coding", "Designing UI", "Tech Blogging"]
 </div>
 
 ---
-## 📊 GitHub Analytics
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kira9130&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kira9130&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kira9130&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=krishna-kawtikwar&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="Krishna Kawtikwar GitHub stats" /> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-kawtikwar&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" />
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=krishna-kawtikwar&theme=neon-dark&hide_border=true&stroke=0000&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="Krishna Kawtikwar Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishna-kawtikwar&custom_title=Krishna's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kira9130&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
-## 🏆 GitHub Achievements
-
-<div align="center" style="margin-top: 20px;">
-        <img src="https://github-profile-trophy.vercel.app/?username=krishna-kawtikwar&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4&row=3&column=6&include_all_commits=true&count_private=true" />
-</div>
-
----
-
-## 💡 Random Dev Wisdom
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay" />
-</div>
-
+[![](https://visitcount.itsvg.in/api?id=kira9130&icon=0&color=0)](https://visitcount.itsvg.in)
 ## 🎨 Featured Projects
 
 <div align="center">
