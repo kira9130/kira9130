@@ -28,13 +28,13 @@ fun_fact: "I love building UI that people enjoy using!"
 
 currently_learning: ["Next.js", "TypeScript", "Advanced React Patterns"]
 hobbies: ["Coding", "Designing UI", "Tech Blogging"]
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
-
----
 
 <!-- Social Media -->
+
+## 🌐 Connect With Me
+
+<div align="center">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/krishna_kawtikwar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40" /></a>
