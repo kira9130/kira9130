@@ -1,4 +1,4 @@
-<img width="1226" height="671" alt="image" src="https://github.com/user-attachments/assets/d5cf61ed-c74f-4f7f-bbbe-a8e940a285ba" /><!-- Web Dev Banner -->
+ Web Dev Banner -->
 ![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
 
 <!-- Your Info. -->
