@@ -11,15 +11,7 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
-name: Krishna Kawtikwar
-location: ["Pune", "India"]
-current_focus: "Frontend Development & SaaS Projects"
-website: "https://krishnakawtikwar.vercel.app"
-email: "krishna.kawtikwar@gmail.com"
-pronouns: ["he", "him"]
-fun_fact: "I can turn coffee into beautiful UI designs!"
-currently_learning: ["Advanced React Patterns", "TypeScript", "Next.js"]
-hobbies: ["Coding", "Cricket", "UI Design", "Anime"]
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 
 
