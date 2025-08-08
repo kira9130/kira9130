@@ -2,17 +2,15 @@
 ![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
 
 <!-- Your Info. -->
+# 🚀 Krishna Kawtikwar | Frontend Developer & Tech Enthusiast
 
-## 🌟 About Me  
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Frontend+Developer;Full-Stack+Developer;Tech+Explorer" alt="Typing SVG" />
+</div>
 
-
-- 🔭 I’m currently working on **Smart Library System using RFID & Raspberry Pi Pico**
-- 🌱 I’m currently learning **Next.js, MongoDB, and creative UI/UX workflows**
-- 👯 I’m looking to collaborate on **IoT and web-based projects**
-- 💬 Ask me about **Front-End Development, RFID, and creative tech projects**
-- 📫 How to reach me **krishna.kawtikwar@gmail.com**
-- ⚡ Fun fact **I blend hardware + software for real-world impact**
-
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 <!-- Social Media -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
