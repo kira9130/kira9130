@@ -44,8 +44,6 @@ hobbies: ["Coding", "Designing UI", "Tech Blogging"]
 <a href="https://www.linkedin.com/in/krishna-kawtikwar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mr.x_krishu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
-
-
 </div>
 
 <div align="center">
